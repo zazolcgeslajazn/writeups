@@ -152,3 +152,4 @@ app.listen(8080);
 * Add the image with URL: `3888454` and description: `<iframe src="<ngrok/exploit url>">`
 * Let the bot visit your (addFriend)
 * Go to webhook.site (or your service of choice) and grab the flag!
+* Realize it's already 4am and go to sleep 😴
